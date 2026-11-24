@@ -86,4 +86,3 @@ jobs:
           token: ${{ github.token }}
           # 自动生成一些变化列表之类的内容。
           generateReleaseNotes: true
-
